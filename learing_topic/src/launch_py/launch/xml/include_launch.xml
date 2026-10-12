@@ -1,0 +1,4 @@
+<launch>
+  <let name="bg_r" value="200" />
+  <include file="$(find-pkg-share launch_py)/launch/xml/param_launch.xml" />
+</launch>

@@ -1,0 +1,6 @@
+launch:
+- let:
+    name: bg_r
+    value: '200'
+- include:
+    file: $(find-pkg-share launch_py)/launch/yaml/param_launch.yaml

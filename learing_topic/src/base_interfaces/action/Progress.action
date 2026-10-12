@@ -1,0 +1,5 @@
+bool enable #是否移动
+---
+bool finish #是否完成移动
+---
+int32 state #移动状态
